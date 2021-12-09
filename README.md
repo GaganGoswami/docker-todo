@@ -1,2 +1,3 @@
 # docker-todo
-ToDos application with Docker File
+## Task (TO-DO) application with Docker File
+
